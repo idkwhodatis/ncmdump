@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-__author__ = 'qyh'
+__author__ = ['qyh','idkwhodatis']
 __date__ = '2018/10/16 9:22'
 
 import binascii
